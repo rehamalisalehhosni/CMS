@@ -1,0 +1,1 @@
+filter_var($careersTranslation->description, FILTER_SANITIZE_STRING);
